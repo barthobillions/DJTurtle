@@ -47,16 +47,5 @@ function main()
 	end
 end
 
---FOR STARTUP THEME TURTLE
--- function main()
--- 	file_name = "fly me to the moon.dfpwm"
--- 	term.clear()
--- 	term.setCursorPos(1,5)
--- 	print("----------------PLAYING----------------")
--- 	term.setCursorPos(11,7)
--- 	print("fly me to the moon")
--- 	print("---------------------------------------")
--- 	load_and_play_audiostream(file_name)
--- end
 
 main()
